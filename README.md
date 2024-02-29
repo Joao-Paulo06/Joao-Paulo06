@@ -8,7 +8,12 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,c,html,css,php, " />
+  </a>
+</p><div style="display: inline_block"><br/>
  <img aling="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
  <img aling="center" alt="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
  <img aling="center" alt="git" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
