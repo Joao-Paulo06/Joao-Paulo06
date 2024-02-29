@@ -23,8 +23,3 @@
 </div><br/>
 
 Em cada linha de código, vejo o amor pela tecnologia transformando o mundo em possibilidades ilimitadas.
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
