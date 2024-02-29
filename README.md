@@ -6,7 +6,7 @@
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo06&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia a dia
 
 
 <p align="center">
