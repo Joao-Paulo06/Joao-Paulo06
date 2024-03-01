@@ -5,6 +5,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-paulo-da-silva-moreira-40681429b)
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo06&show_icons=true&theme=dark)
+![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo06&show_icons=true&theme=radical)
 ## Tecnologias que eu uso no meu dia a dia
 
 
