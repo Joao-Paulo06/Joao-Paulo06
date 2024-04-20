@@ -1,19 +1,49 @@
-### Olá! Eu sou o João Paulo Moreira 👋
+<h1 align="left">Sobre mim:</h1>
 
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:joaopaulojs.780@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/joaopaulojs.380)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-paulo-da-silva-moreira-40681429b)
+<img align="right" width="200px" src="https://i.postimg.cc/x8wShV4f/photo-2024-04-20-16-37-45.png">
 
-![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Paulo06&show_icons=true&theme=github_dark)
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo06&layout=compact)](https://github.com/Joao-Paulo06/github-readme-stats)
-## Tecnologias que eu uso no meu dia a dia
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,c,html,css,php,sqlite,git " />
-  </a>
-</p><div style="display: inline_block"><br>
+</br>
+Olá! Sou João Paulo Moreira,
+Um aspirante a desenvolvedor Full Stack, imerso na jornada da tecnologia e apaixonado por cada linha de código que escreve.
+</br>
 
 
-Em cada linha de código, vejo o amor pela tecnologia transformando o mundo em possibilidades ilimitadas.
+</br>
+</br>
+</br>
+</br>
+
+<h2 align="left">Estatísticas do Github:</h2>
+<div align="center">
+  <a href="https://github.com/Joao-Paulo06"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+ <a href="https://github.com/Joao-Paulo06"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo06&layout=compact&langs_count=7&theme=github_dark&hide_border=true"></a>&nbsp;
+</div>
+  
+</br>
+</br>
+  
+  
+<div style="display: inline_block">
+  
+  <h3 align="left">Habilidades principais:</h3>
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Joao-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  
+  <h3 align="left">Ferramentas:</h3>
+  <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+</div>
+
+
+##
+  <div>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-moreira-40681429b" target_"black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target_"black"></a>
+    <a href = "mailto:joaopaulojs.780@gmail.com" target_"black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target_"black"></a>
+     <a href="https://www.instagram.com/joaopaulo.js380/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+  
