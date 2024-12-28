@@ -32,7 +32,12 @@ Um aspirante a desenvolvedor Full Stack, imerso na jornada da tecnologia e apaix
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Joao-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-   <a href="https://www.credly.com/badges/3a89054d-fef0-4d56-90bb-74d3d66555bb"> <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a>
+
+  </br>
+  </br>
+  <h3 align="left">Credenciais:</h3>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2fda69e-1090-42c6-a12e-6d921fa94a9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+   
   
   <h3 align="left">Ferramentas:</h3>
   <img align="center" alt="Visual Studio Code logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
