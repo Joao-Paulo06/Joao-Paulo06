@@ -35,10 +35,11 @@ Um aspirante a desenvolvedor Full Stack, imerso na jornada da tecnologia e apaix
 
   </br>
   </br>
+  <div>
   <h3 align="left">Credenciais:</h3>
   
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2fda69e-1090-42c6-a12e-6d921fa94a9b" data-share-badge-host="https://www.credly.com">
-     <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"></a>
+  <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img src="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b/public_url"></a>
+  
   </div>
    
   
