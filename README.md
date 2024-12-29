@@ -1,4 +1,4 @@
-<h1 align="left">Sobre mim:</h1>
+ <h1 align="left">Sobre mim:</h1>
 
 <img align="right" width="200px" src="https://i.postimg.cc/x8wShV4f/photo-2024-04-20-16-37-45.png">
 
@@ -38,7 +38,7 @@ Um aspirante a desenvolvedor Full Stack, imerso na jornada da tecnologia e apaix
   <div>
   <h3 align="left">Credenciais:</h3>
   
-  <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img src="[https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b/public_url](https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)"></a>
+  <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"></a>
   
   </div>
    
