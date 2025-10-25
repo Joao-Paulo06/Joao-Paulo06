@@ -38,10 +38,10 @@ Um aspirante a desenvolvedor Full Stack, imerso na jornada da tecnologia e apaix
   <div>
   <h3 align="left">Credenciais:</h3>
   
-  <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img align="center" src="https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"></a>
-  <a href="https://www.credly.com/badges/bf28c764-2255-4c0f-8f0a-1b7dcc4e6527/public_url"> <img align="center" src="https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"></a>
-  <a href="https://www.credly.com/badges/7dc0bc5b-f2d1-4690-bc75-7e271b45428e/public_url"> <img align="center" src="https://images.credly.com/size/80x80/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"></a>
-  <a href="https://www.credly.com/badges/182468f3-95f8-446e-a39a-0f0aae2eafb3/public_url"> <img align="center" src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png"></a>
+  <a href="https://www.credly.com/badges/f2fda69e-1090-42c6-a12e-6d921fa94a9b"> <img align="center" src="https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png"></a>
+  <a href="https://www.credly.com/badges/bf28c764-2255-4c0f-8f0a-1b7dcc4e6527/public_url"> <img align="center" src="https://images.credly.com/size/100x100/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png"></a>
+  <a href="https://www.credly.com/badges/7dc0bc5b-f2d1-4690-bc75-7e271b45428e/public_url"> <img align="center" src="https://images.credly.com/size/100x100/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"></a>
+  <a href="https://www.credly.com/badges/182468f3-95f8-446e-a39a-0f0aae2eafb3/public_url"> <img align="center" src="https://images.credly.com/size/100x100/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png"></a>
   
   </div>
    
